@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/lakshan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_e296ea1219f4da2cea7b0e0846c92b24c027e57c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_3ec4522aa598b219bc6a423d5c5f99162dda0469.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0e9d3a3d3a781fe8fe55b743c397ae7f097c21b0">
+        <dex dex="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.2_6f5f902e90d213dfcb5fa07b84521af8d5b791e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lakshan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_540592b25471aba6ea683ba7ec54a7c1aa3e850f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lakshan/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_1a3e09056853ad3a333c63be2789b7a8ca5ba7a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_cf2e9387ea876c0d0f5c2b915225df3022eef35b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_6822baa667242695aa96a35012938f21bf38fe82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.2/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_0747b7940ed50b9a8b2c7572524b45908dc8e8d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_871e0e9c1536a866d92554d5ae573c29eeafbb3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_2361dbc6bb541efc0735527f495721d42f0d2035.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_96bdf25d73b966e32e2bd8caa74f2c6bf29c43d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_68ee7f12b3b9f0a1c10ca813f8efec723d807fa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lakshan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_1cc068a26b3644ad8b9bcaf2a27a8c353cc7016f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lakshan/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_d437ccc32e3f6ac48242344a2772240d6d4c2c0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_8b523827e376967c2ff1554b943c2ed31032f878.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_6207c65140d7f001a12d63e5230ab49674b0f717.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lakshan/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_89d119f2d6779f3fc917be8f1814d7106bd4d2df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_1afbf2fba33022acb0de0dca72ada34e38c760dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_083b719300938b3c7254f9d6ff855152e31c629a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lakshan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_f151f0fd6a2019a8ffae674e97650761e20c27f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lakshan/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/lakshan/reactProjects/MemApp/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_8c24ea9d415eea941bf20647850cc11ffb5c26fd.jar" />
+    </item>
+
+</items>

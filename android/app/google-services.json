@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "79924232312",
+    "firebase_url": "https://msmapp-e442b.firebaseio.com",
+    "project_id": "msmapp-e442b",
+    "storage_bucket": "msmapp-e442b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79924232312:android:bebe914053e243f4",
+        "android_client_info": {
+          "package_name": "com.memapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79924232312-0hpjpmbkv6p5o4vqdu5re3i5vcluqkhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP3Kv5ICttCAufaIluZPdGA48-WL6deO8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
